@@ -1,0 +1,13 @@
+C:\Users\fsf91\_projects\HashTablesRansomNote\HashTablesRansomNote\bin\Debug\netcoreapp3.1\HashTablesRansomNote.exe
+C:\Users\fsf91\_projects\HashTablesRansomNote\HashTablesRansomNote\bin\Debug\netcoreapp3.1\HashTablesRansomNote.deps.json
+C:\Users\fsf91\_projects\HashTablesRansomNote\HashTablesRansomNote\bin\Debug\netcoreapp3.1\HashTablesRansomNote.runtimeconfig.json
+C:\Users\fsf91\_projects\HashTablesRansomNote\HashTablesRansomNote\bin\Debug\netcoreapp3.1\HashTablesRansomNote.runtimeconfig.dev.json
+C:\Users\fsf91\_projects\HashTablesRansomNote\HashTablesRansomNote\bin\Debug\netcoreapp3.1\HashTablesRansomNote.dll
+C:\Users\fsf91\_projects\HashTablesRansomNote\HashTablesRansomNote\bin\Debug\netcoreapp3.1\HashTablesRansomNote.pdb
+C:\Users\fsf91\_projects\HashTablesRansomNote\HashTablesRansomNote\obj\Debug\netcoreapp3.1\HashTablesRansomNote.csprojAssemblyReference.cache
+C:\Users\fsf91\_projects\HashTablesRansomNote\HashTablesRansomNote\obj\Debug\netcoreapp3.1\HashTablesRansomNote.AssemblyInfoInputs.cache
+C:\Users\fsf91\_projects\HashTablesRansomNote\HashTablesRansomNote\obj\Debug\netcoreapp3.1\HashTablesRansomNote.AssemblyInfo.cs
+C:\Users\fsf91\_projects\HashTablesRansomNote\HashTablesRansomNote\obj\Debug\netcoreapp3.1\HashTablesRansomNote.csproj.CoreCompileInputs.cache
+C:\Users\fsf91\_projects\HashTablesRansomNote\HashTablesRansomNote\obj\Debug\netcoreapp3.1\HashTablesRansomNote.dll
+C:\Users\fsf91\_projects\HashTablesRansomNote\HashTablesRansomNote\obj\Debug\netcoreapp3.1\HashTablesRansomNote.pdb
+C:\Users\fsf91\_projects\HashTablesRansomNote\HashTablesRansomNote\obj\Debug\netcoreapp3.1\HashTablesRansomNote.genruntimeconfig.cache
